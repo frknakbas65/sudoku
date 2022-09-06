@@ -103,8 +103,6 @@ while True:
                                         dongukontrol=False
                                         p=9
                                         break
-                                        
-                                
                         p+=1
                 
                 if dongukontrol==True and boarda[konum_satir-1][konum_sutun-1]=="-":    
