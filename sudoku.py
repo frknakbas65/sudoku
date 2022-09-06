@@ -59,7 +59,7 @@ while True:
                 if sayi=="q":
                         quit()
                 
-                konum_satir,konum_sutun=input("Bir konum seçiniz.*Format: (konum satır,konum sütun)").split(",")
+                konum_satir,konum_sutun=input("Bir konum seçiniz.*Format: konum satır,konum sütun").split(",")
                 sayi=int(sayi)
                 konum_satir=int(konum_satir)
                 konum_sutun=int(konum_sutun)
