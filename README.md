@@ -1,2 +1,2 @@
-# sudoku
-Terminal üzerinden oynanan sudoku oyunu.
+# Sudoku
+Terminal üzerinden oynanan sudoku oyunu
