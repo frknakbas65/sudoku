@@ -107,13 +107,7 @@ while True:
                                 
                         p+=1
                 
-                if dongukontrol==True and boarda[konum_satir-1][konum_sutun-1]=="-":
-                #sayi in boarda[0:9][konum_satir-1]:      
+                if dongukontrol==True and boarda[konum_satir-1][konum_sutun-1]=="-":    
                         boarda[konum_satir-1][konum_sutun-1]=str(sayi)
                         yazdir()
-                
-
-                                
-
-                                
-                        
+            
